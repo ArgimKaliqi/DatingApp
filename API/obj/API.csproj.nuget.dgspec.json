@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\akali\\Desktop\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\Argimo\\Desktop\\DatingApp-1\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\akali\\Desktop\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\Argimo\\Desktop\\DatingApp-1\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akali\\Desktop\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Argimo\\Desktop\\DatingApp-1\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\akali\\Desktop\\DatingApp\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\akali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akali\\Desktop\\DatingApp\\API\\obj\\",
+        "projectPath": "C:\\Users\\Argimo\\Desktop\\DatingApp-1\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\Argimo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Argimo\\Desktop\\DatingApp-1\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\akali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Argimo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,6 +40,16 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -51,7 +61,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -63,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
