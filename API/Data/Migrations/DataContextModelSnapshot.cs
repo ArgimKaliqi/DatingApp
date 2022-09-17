@@ -22,9 +22,6 @@ namespace API.Data.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
 
-                    b.Property<int>("MyProperty")
-                        .HasColumnType("INTEGER");
-
                     b.Property<string>("UserName")
                         .HasColumnType("TEXT");
 
