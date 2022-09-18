@@ -51,3 +51,8 @@ C:\Users\Argimo\Desktop\DatingApp-1\API\obj\Debug\net6.0\API.genruntimeconfig.ca
 C:\Users\Argimo\Desktop\DatingApp-1\API\obj\Debug\net6.0\ref\API.dll
 C:\Users\Argimo\Desktop\DatingApp-1\API\bin\Debug\net6.0\Humanizer.dll
 C:\Users\Argimo\Desktop\DatingApp-1\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Argimo\Desktop\DatingApp-1\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Argimo\Desktop\DatingApp-1\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Argimo\Desktop\DatingApp-1\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Argimo\Desktop\DatingApp-1\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Argimo\Desktop\DatingApp-1\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
