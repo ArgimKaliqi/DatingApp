@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "1so2M8657omixg0hYktKK0C9/CJ0mKyBw1w7W1tlh0R2dDhdgZHo9p07LL8S7/Kq4WV3Ci/TQL0PoGxMaLDi7w==",
+  "dgSpecHash": "2o0qp4QYghp3Y3Ks8lcRZa6N/oiEFU9m9g9S0n0yht6AbqjYJSwV2WkRZjhfnuyZCGDgJAuYFXZl+mj+jr0sdg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Argimo\\Desktop\\DatingApp-1\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Argimo\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Argimo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\Argimo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Argimo\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.9\\microsoft.aspnetcore.authentication.jwtbearer.6.0.9.nupkg.sha512",
-    "C:\\Users\\Argimo\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Argimo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Argimo\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.0\\microsoft.data.sqlite.core.6.0.0.nupkg.sha512",
     "C:\\Users\\Argimo\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
     "C:\\Users\\Argimo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0\\microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",
